@@ -16,15 +16,21 @@ Backend node desenvolvido utilizando Knex como query builder, banco de dados SQL
 
 1 - dependências:
 
+```
 npm install
+```
 
 2 - scripts do Knex para migrates e seeds:
 
+```
 npm run knex:migrate
 npm run knex:seed
+```
 
 3 - script para iniciar a API:
 
+```
 npm run start
+```
 
-acesse o endereço: `http://localhost:3333'
+acesse o endereço: ```http://localhost:3333```
