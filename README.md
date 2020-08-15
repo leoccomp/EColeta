@@ -4,9 +4,11 @@ O Ecoleta é um webapp que tem por objetivo fazer a conexão entre empresas/enti
 
 ## Content
 
+```
 backend (nodeJS)
 frontend (reactJS)
 mobile (react native)
+```
 
 Backend node desenvolvido utilizando Knex como query builder, banco de dados SQLite3.
 
